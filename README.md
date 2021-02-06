@@ -19,7 +19,7 @@ Join the Chatroom [![Telegram](presentations/icons8-telegram-app-34.png)](https:
 
 | Theme                         | Introduction Talk                                           | Exercises                                               |
 |-------------------------------|----------------------------------------------------------   |------------------------------------------------------- |
-| Building an API               | [REST & Spring](/presentations/designing-restful-apis.pdf)  | [REST & Spring](/01-project-structure/README.md)      |
+| Building an API               | [REST & Spring](/presentations/designing-restful-apis.pdf)  |[REST & Spring](/01-project-structure/README.md)      |
 | Building an API               | [REST & JaxRS](/presentations/JAX-RS.pdf)                   |[REST & JaxRS](/01-project-structure/README.md)                                |
 | Open API Specifications       | [Open API](/presentations/open-api.pdf)                    | [Open API](/02-open-api/README.md)                     | 
 | GraphQL                       | [GraphQL](/presentations/GraphQL.pdf)                      | [GraphQL](/03-graphql/README.md) |
